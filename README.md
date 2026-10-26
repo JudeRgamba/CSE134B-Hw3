@@ -2,7 +2,7 @@
 
 The start to actually making a usable website.
 
-| **Field** | **Value** |
+| Field | Value |
 | ----- | ----- |
 |Repository URL | https://github.com/JudeRgamba/CSE134B-Hw3 |
 | Part 1 Deployed URL | https://cse134b-homework3.netlify.app/part1/cheese.html |
