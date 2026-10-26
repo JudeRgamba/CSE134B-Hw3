@@ -331,6 +331,13 @@ project-card[id] {
     margin: 0;
 }
 
+/* Fill the feed with the welcome photo and update photo. */
+.home-page section[aria-labelledby="welcome-heading"] > img,
+.home-page .post-photo {
+    width: 100%;
+    height: auto;
+}
+
 /* Journal Sidebar Styling */
 .journal-panel {
     background-color: var(--azure-mist);
@@ -531,6 +538,7 @@ project-card[id] {
 .photo-gallery img {
     display: block;
     width: 100%;
+    height: auto;
     aspect-ratio: 1 / 1;
     object-fit: cover;
     border-radius: 0.75rem;
